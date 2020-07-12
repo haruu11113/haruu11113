@@ -1,14 +1,30 @@
 # About me
 ## info
-name : haru
-twitter : 
-blog : 
+name : Haru  
+twitter :   
+blog :   
 
-## about my job
+## About My Job
 I am a graduate student on Japan. My research theme is the development of applications that use machine learning. After graduate school, I would like to work in the field of machine learning and data analysis.
 
-## my app
+## My Applications
 Now I am making markdown editor, 'Mnote'.
 
 
+## Programming Languages
+- Python
+- php
+- java
+- html/css/javascript
+- sql
+
+- laravel
+- Django
+
+
+### Studying Now
+- React
+- Typescript
+
+## About Mchine Learning
 
