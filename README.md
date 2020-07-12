@@ -1,9 +1,4 @@
-# About me
-## info
-name : Haru  
-twitter :   
-blog :   
-
+# About Haru
 ## About My Job
 I am a graduate student on Japan. My research theme is the development of applications that use machine learning. After graduate school, I would like to work in the field of machine learning and data analysis.
 
@@ -13,7 +8,6 @@ I have a part-time job at a company creating applications using Laravel.
 
 ## My Applications
 Now I am making markdown editor, 'Mnote'.
-
 
 ## Programming Languages
 - Python
@@ -34,3 +28,7 @@ Now I am making markdown editor, 'Mnote'.
 ## About Mchine Learning
 I mainly use scikit-learn to do supervised machine learning. I have not yet done any deep learning. Therefore, I would like to learn more about deep learning in the future.
 
+## info
+name : Haru  
+twitter :   
+blog :   
