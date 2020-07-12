@@ -32,5 +32,5 @@ Now I am making markdown editor, 'Mnote'.
 - Typescript
 
 ## About Mchine Learning
-I mainly use skit-learn to do supervised machine learning. I have not yet done any deep learning. Therefore, I would like to learn more about deep learning in the future.
+I mainly use scikit-learn to do supervised machine learning. I have not yet done any deep learning. Therefore, I would like to learn more about deep learning in the future.
 
