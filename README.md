@@ -1,4 +1,4 @@
-# About Haru
+# About Me
 ## About My Job
 I am a graduate student on Japan. My research theme is the development of applications that use machine learning. After graduate school, I would like to work in the field of machine learning and data analysis.
 
