@@ -1,6 +1,6 @@
 # About Me
 ## About My Job
-I am a graduate student on Japan. My research theme is the development of applications that use machine learning. After graduate school, I would like to work in the field of machine learning and data analysis.
+I am a Master 1st student on Japan. My research theme is the development of applications that use machine learning. After graduate school, I would like to work in the field of machine learning and data analysis.
 
 In college, I learned about a wide range of fields such as classical control theory, information theory, and optical engineering.
 
