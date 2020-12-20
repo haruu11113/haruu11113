@@ -12,6 +12,9 @@ I have a part-time job at a company creating applications using Laravel.
 ## About Mchine Learning
 I mainly use scikit-learn to do supervised machine learning. I have not yet done any deep learning. Therefore, I would like to learn more about deep learning in the future.
 
+## paper
+Papers I have read
+->https://github.com/haruu11113/paper/issues
 
 ## Info
 name : Haru  
