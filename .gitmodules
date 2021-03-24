@@ -4,3 +4,6 @@
 [submodule "dotfiles"]
 	path = dotfiles
 	url = git@github.com:haruu11113/dotfiles.git
+[submodule ".github"]
+	path = .github
+	url = git@github.com:haruu11113/.github.git
