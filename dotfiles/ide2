@@ -1,3 +1,0 @@
-#!/bin/sh
-tmux split-window -h -p 28
-# tmux split-window -h -p 50

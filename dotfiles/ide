@@ -1,5 +1,0 @@
-#!/bin/sh
-tmux split-window -v -p 23
-tmux new-window
-tmux new-window
-
