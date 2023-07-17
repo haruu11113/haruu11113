@@ -7,8 +7,8 @@ Student / Researcher / Developer
 I am a Doctor 1st student on Japan. My research theme is the development of applications that use machine learning. After graduate school, I would like to work in the field of machine learning and data analysis. In college, I learned about a wide range of fields such as classical control theory, information theory, and optical engineering. I have a part-time job at a company creating applications using Laravel.
 
 * 🌍  I'm based in Japan
-* 🖥️  See my portfolio at [haru](http://haruu11113.github.io/)
-* 🚀  I'm currently working on [sozolab](http://sozolab.jp)
+* 🖥️  See my portfolio at [haru](https://haruu11113.github.io/)
+* 🚀  I'm currently working on [sozolab](https://sozolab.jp)
 
 ### Skills
 
@@ -41,6 +41,3 @@ I am a Doctor 1st student on Japan. My research theme is the development of appl
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/haruu11113"><img src="https://github-readme-stats.vercel.app/api?username=haruu11113&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="haruu11113's GitHub stats" /></a><a href="https://github.com/haruu11113" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruu11113&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
-
-<a href="http://www.github.com/haruu11113"><img src="https://activity-graph.herokuapp.com/graph?username=haruu11113&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
