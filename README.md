@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student / Researcher / Developer
 --------------------------------
 
-I am a Doctor 2nd student in Japan. My research theme is the development of applications that use machine learning. After graduation, I would like to work in the field of machine learning and data analysis. In college, I learned about a wide range of fields such as classical control theory, information theory, and optical engineering. I have a part-time job at a company creating applications using Laravel.
+
+I am a Doctor 3rd student in Japan. I am looking for a post-doctoral/assistant professor position in the area of analytics and machine learning for activity recognition and EHR.
+My research theme is the development of applications that use machine learning. After graduation, I would like to work in the field of machine learning and data analysis. In college, I learned about a wide range of fields such as classical control theory, information theory, and optical engineering. I have a part-time job at a company creating applications using Laravel.
 
 * 🌍  I'm based in Japan
 * 🖥️  See my portfolio at [haru](https://haruu11113.github.io/)
