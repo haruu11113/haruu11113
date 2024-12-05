@@ -99,7 +99,7 @@ molecule==3.2.3
 molecule-docker==0.2.4
 nbclassic==0.2.6
 nbclient==0.5.2
-nbconvert==6.0.7
+nbconvert==6.5.1
 nbformat==5.1.2
 nest-asyncio==1.5.1
 nodeenv==1.5.0
