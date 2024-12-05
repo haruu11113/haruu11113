@@ -94,7 +94,7 @@ Markdown==3.3.3
 MarkupSafe==1.1.1
 matplotlib==3.3.4
 mccabe==0.6.1
-mistune==0.8.4
+mistune==2.0.3
 molecule==3.2.3
 molecule-docker==0.2.4
 nbclassic==0.2.6
