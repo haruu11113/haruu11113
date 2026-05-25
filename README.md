@@ -11,6 +11,12 @@ I also work part-time creating applications using Laravel.
 * 🌍  I'm based in Japan
 * 🖥️  See my portfolio at [haru](https://haruu11113.github.io/)
 
+### Looking For
+
+- Postdoctoral Researcher
+- Assistant Professor
+- Research positions in machine learning and activity recognition
+
 ### Skills
 
 <p align="left">
