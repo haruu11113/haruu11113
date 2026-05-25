@@ -5,12 +5,11 @@ Student / Researcher / Developer
 --------------------------------
 
 
-I am a Doctor 3rd student in Japan. I am looking for a post-doctoral/assistant professor position in the area of analytics and machine learning for activity recognition and EHR.
-My research theme is the development of applications that use machine learning. After graduation, I would like to work in the field of machine learning and data analysis. In college, I learned about a wide range of fields such as classical control theory, information theory, and optical engineering. I have a part-time job at a company creating applications using Laravel.
+I am an Assistant in Japan currently seeking a postdoctoral or assistant professor position. My research focuses on machine learning for activity recognition, contrastive learning algorithms, and health prediction using care records. I have expertise in developing machine learning applications and data analysis.
+I also work part-time creating applications using Laravel.
 
 * 🌍  I'm based in Japan
 * 🖥️  See my portfolio at [haru](https://haruu11113.github.io/)
-* 🚀  I'm currently working on [sozolab](https://sozolab.jp)
 
 ### Skills
 
